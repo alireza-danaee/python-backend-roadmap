@@ -133,6 +133,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Databases
 
   - **Video**
+      - [PosgresSQL Course by Amigoscode](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS) (English) (Free)
       - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
 
 ## Caching
